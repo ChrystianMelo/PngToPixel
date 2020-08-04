@@ -2,5 +2,5 @@
 C:\Users\chrys\OneDrive\Área de Trabalho\estagio\PngToPixel\PngPix\PngPix\libraries\lodepng.cpp(729,35): warning C4267: '=': conversão de 'size_t' para 'unsigned short', possível perda de dados
 C:\Users\chrys\OneDrive\Área de Trabalho\estagio\PngToPixel\PngPix\PngPix\libraries\lodepng.cpp(753,37): warning C4267: '=': conversão de 'size_t' para 'unsigned short', possível perda de dados
 C:\Users\chrys\OneDrive\Área de Trabalho\estagio\PngToPixel\PngPix\PngPix\libraries\lodepng.cpp(770,38): warning C4267: '=': conversão de 'size_t' para 'unsigned short', possível perda de dados
-C:\Users\chrys\OneDrive\Área de Trabalho\estagio\PngToPixel\PngPix\PngPix\PngPix.cpp(53,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\chrys\OneDrive\Área de Trabalho\estagio\PngToPixel\PngPix\PngPix\PngPix.cpp(54,20): warning C4018: '<': incompatibilidade de signed/unsigned
   PngPix.vcxproj -> C:\Users\chrys\OneDrive\Área de Trabalho\estagio\PngToPixel\PngPix\Debug\PngPix.exe

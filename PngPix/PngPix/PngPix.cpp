@@ -44,7 +44,8 @@ void pngToPix(string directory) {//using lodepng.h to transfrom png file to pix 
 	unsigned width, height;
 	unsigned error = lodepng::decode(image, width, height, directory);//return 1 == error
 	if (error) std::cout << "decoder error " << error << ": " << lodepng_error_text(error) << std::endl;//error
-	else std::cout << directory << " - " << image.size() << "px" << "\n";//success
+	else//success 
+		std::cout << directory << " - " << width * height << "px\n";//or (<< image.size() << "px\n")
 }
 
 int main() {
